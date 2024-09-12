@@ -1,2 +1,0 @@
-- Functions
-- and all the 10 coins
